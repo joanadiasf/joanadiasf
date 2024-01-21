@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joana</h1>
 <h3 align="center">A passionate Software Developer from Portugal</h3>
 
-- 🔭 I’m currently working on Java game's, such as [My2DGame](https://github.com/joanadiasf/My2DGame)
+- 🔭 I’m currently working on Java game's, such as [Dungeon-Hunter](https://github.com/joanadiasf/Dungeon-Hunter)
 
 - 🌱 I’m currently learning **Java, Kotlin, Swift, SQL, Angular and PHP Laravel**
 
